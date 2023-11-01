@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Electrolize;
+    src: url(./Electrolize.zip);
+}
 *{
     background-color: grey;
 }
